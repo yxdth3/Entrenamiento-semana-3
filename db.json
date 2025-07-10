@@ -1,39 +1,24 @@
 {
   "Products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Chocolates",
       "price": 100
     },
     {
-      "id": 2,
-      "name": "Chicles",
-      "price": 200
+      "id": "2",
+      "name": "Chocolate",
+      "price": 2000
     },
     {
-      "id": 3,
-      "name": "Galletas",
-      "price": 300
-    },
-    {
-      "id": 4,
+      "id": "4",
       "name": "Caramelos",
       "price": 400
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Bombones",
       "price": 500
-    },
-    {
-      "id": 6,
-      "name": "Gomitas",
-      "price": 600
-    },
-    {
-      "id": 7,
-      "name": "Joyas",
-      "price": 300
     }
   ]
 }

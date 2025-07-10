@@ -20,7 +20,7 @@ JSON Server instalado glabalmente en el proyecto
 git clone https://github.com/yxdth3/Entrenamiento-semana-3.git
 cd Entrenamiento-semana-3
 npm install
-json-server --watch db.json
+json-server --watch db.json port 3000
 ```
  📞 Contacto 📞
  Nombre: Yiseth Gutiérrez Teléfono: 3206781487 Correo: gutierrezyiseth3@gmail.com GitHub: @yxdth3
